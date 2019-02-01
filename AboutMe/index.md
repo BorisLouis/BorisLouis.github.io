@@ -1,7 +1,7 @@
 ---
-layout: page
-title:
+layout: page-AboutMe
 ---
+
 <body data-spy="scroll" data-target="#myNavBar" data-offset="100">
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
